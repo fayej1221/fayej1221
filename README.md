@@ -1,5 +1,5 @@
 
-⚡ S K I L L ⚡
+⚡ S K I L L ⚡<br>
 [![AI](https://img.shields.io/badge/AI-pink?style=for-the-badge&logo=AI&logoColor=white)]
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]
 [![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=Django&logoColor=white)]
