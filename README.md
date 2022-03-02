@@ -7,3 +7,4 @@
 [![html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)]
 [![css](https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=CSS3&logoColor=white)]
 <br><br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=freetour0)](https://solved.ac/freetour0)
