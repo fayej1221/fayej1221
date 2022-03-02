@@ -6,4 +6,5 @@
 [![css](https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=CSS3&logoColor=white)]
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]
 [![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=Django&logoColor=white)]
+[![AI](https://img.shields.io/badge/AI-red?style=for-the-badge&logo=AI&logoColor=white)]
 <br><br>
