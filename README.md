@@ -8,3 +8,4 @@
 [![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]
 
 ![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=radical)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{freetour0})
