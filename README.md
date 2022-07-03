@@ -9,4 +9,3 @@
 
 
 ![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=radical)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=freetour0)](https://solved.ac/freetour0)
