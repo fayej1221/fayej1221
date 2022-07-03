@@ -7,7 +7,8 @@
 [![html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)]
 [![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=freetour0)](https://solved.ac/freetour0)
+
 ![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=radical)
 [![Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=freetour0)](https://solved.ac/freetour0)
