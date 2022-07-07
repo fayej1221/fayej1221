@@ -9,3 +9,4 @@
 
 
 ![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=dracula)](https://github.com/freenozero)
