@@ -1,11 +1,12 @@
 
 ⚡ S K I L L ⚡<br>
-[![CV](https://img.shields.io/badge/AI-pink?style=for-the-badge&logo=AI&logoColor=white)]
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]
-[![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=Django&logoColor=white)]
-[![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=black)]
-[![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)]
-[![Css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)]
+[![ML](https://img.shields.io/badge/ML-pink?style=for-the-badge&logo=ML&logoColor=white)]
+[![CV](https://img.shields.io/badge/CV-pink?style=for-the-badge&logo=CV&logoColor=white)]
+[![Django](https://img.shields.io/badge/Django-pink?style=for-the-badge&logo=Django&logoColor=red)]
+[![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white)]
+[![Html](https://img.shields.io/badge/Html-3776AB?style=for-the-badge&logo=Html&logoColor=white)]
+[![Css](https://img.shields.io/badge/Css-3776AB?style=for-the-badge&logo=Css&logoColor=white)]
 
 
 ![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=radical)
