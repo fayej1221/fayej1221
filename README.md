@@ -9,7 +9,7 @@
 [![Css](https://img.shields.io/badge/Css-3776AB?style=for-the-badge&logo=Css&logoColor=red)]
 
 
-![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=dracula)](https://github.com/freenozero)
+![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=buefy)](https://github.com/freenozero)
 
 Jupyter notebook is mainly Python
