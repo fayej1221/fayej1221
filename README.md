@@ -13,7 +13,8 @@
 [![Html](https://img.shields.io/badge/Html-3776AB?style=for-the-badge&logo=Html)]
 [![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=CSS)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
 ![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=freetour0)](https://solved.ac/freetour0/)
 </div>
