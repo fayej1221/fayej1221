@@ -2,14 +2,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=E2E2E2&height=200&section=header&text=freenozero&fontSize=30)
 
+☺CAREEOR INTERESTS☺<br>
+<img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
+<br><br>
+
 ⚡MAIN STACK⚡<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br><br>
  
 ⚡SUB STACK⚡<br>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white">
-<img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <br><br>
 
@@ -35,9 +39,6 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">      
 <br><br>
 
-☺CAREEOR INTERESTS☺<br>
-<img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
-<br><br>
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
