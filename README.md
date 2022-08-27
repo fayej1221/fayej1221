@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=E2E2E2&height=200&section=header&text=freenozero&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFC0CB&height=200&section=header&text=freenozero&fontSize=30)
 
 ☺CAREEOR INTERESTS☺<br>
 <img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
