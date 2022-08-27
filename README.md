@@ -37,6 +37,7 @@
 📂PORTFOLIO📂<br>
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero)](https://github.com/freenozero)
 [![NOTION](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)](https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)
+!! click me !! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
