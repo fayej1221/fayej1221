@@ -15,6 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
-![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=graywhite)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=freetour0)](https://solved.ac/freetour0/)
+  
+![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=graywhite)
 </div>
