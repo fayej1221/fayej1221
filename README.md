@@ -24,9 +24,10 @@
 <br><br>
  
 📂PORTFOLIO📂<br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<br><br>
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white&link=link=https://github.com/freenozero)](link=https://github.com/freenozero)
+[![NOTION](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=link=https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)](link=https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)
+
+
   
 📖LEARNING NOW📖<br>
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -39,7 +40,6 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">      
 <br><br>
 
- 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
