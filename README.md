@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
 <br><br>
  
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=freetour0)](https://solved.ac/freetour0/)
