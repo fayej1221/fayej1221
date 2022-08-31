@@ -41,8 +41,9 @@
 [![NOTION](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)](https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)
 
 🔥PROJECT🔥<br>
-1. gratitude_diary
-2. FarmSecurity
+ [![gratitude_diary](https://img.shields.io/badge/gratitude_diary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/gratitude_diary)](https://github.com/freenozero/gratitude_diary)
+ [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/whdms2008/FarmSecurity)](https://github.com/whdms2008/FarmSecurity)
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
