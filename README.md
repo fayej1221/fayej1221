@@ -4,6 +4,7 @@
 
 ☺CAREEOR INTERESTS☺<br>
 <img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
+ <img src="https://img.shields.io/badge/WebBackend-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
 <br><br>
 
 ⚡MAIN STACK⚡<br>
