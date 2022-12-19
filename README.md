@@ -3,10 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC0CB&height=200&section=header&text=freenozero&fontSize=30)
 
 ☺CAREEOR INTERESTS☺<br>
+<img src="https://img.shields.io/badge/MachineLearning-pink?style=for-the-badge&logo=MachineLearning&logoColor=white">
+<img src="https://img.shields.io/badge/DeepLearning-pink?style=for-the-badge&logo=DeepLearning&logoColor=white">
 <img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
- <img src="https://img.shields.io/badge/WebBackend-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
+<img src="https://img.shields.io/badge/WebBackend-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
 <br><br>
-
 ⚡MAIN STACK⚡<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
