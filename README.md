@@ -38,9 +38,9 @@
 
 🔥PROJECT🔥<br>
   [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/whdms2008/FarmSecurity)](https://github.com/whdms2008/FarmSecurity)
- [![gratitude_diary](https://img.shields.io/badge/gratitude_diary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/gratitude_diary)](https://github.com/freenozero/gratitude_diary)
- [![liverary](https://img.shields.io/badge/liverary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/liverary)](
+  [![liverary](https://img.shields.io/badge/liverary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/liverary)](
  https://github.com/freenozero/liverary)
+  [![gratitude_diary](https://img.shields.io/badge/gratitude_diary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/gratitude_diary)](https://github.com/freenozero/gratitude_diary)
 <br>
 
  
