@@ -46,6 +46,7 @@
   [![Algorithm](https://img.shields.io/badge/Algorithm-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Algorithm)](https://github.com/freenozero/Algorithm)
    [![Lecture_AI](https://img.shields.io/badge/Lecture_AI-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI)](https://github.com/freenozero/Lecture_AI)
    [![Book_Python_machine_learning_perfect_guide](https://img.shields.io/badge/Book_Python_machine_learning_perfect_guide-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)](https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)
+    [![Lecture_AI_PreCourse](https://img.shields.io/badge/Lecture_AI_PreCourse-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI_PreCourse)](https://github.com/freenozero/Lecture_AI_PreCourse)
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
