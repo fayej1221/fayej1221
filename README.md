@@ -3,25 +3,24 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC0CB&height=200&section=header&text=freenozero&fontSize=30)
 
 ☺CAREEOR INTERESTS☺<br>
-<img src="https://img.shields.io/badge/MachineLearning-pink?style=for-the-badge&logo=MachineLearning&logoColor=white">
-<img src="https://img.shields.io/badge/DeepLearning-pink?style=for-the-badge&logo=DeepLearning&logoColor=white">
 <img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
-<img src="https://img.shields.io/badge/WebBackend-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
 <br><br>
 ⚡MAIN STACK⚡<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <br><br>
  
 ⚡SUB STACK⚡<br>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
 <br><br>
 
 🛠TOOLS🛠<br>
