@@ -49,7 +49,7 @@
     [![Lecture_AI_PreCourse](https://img.shields.io/badge/Lecture_AI_PreCourse-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI_PreCourse)](https://github.com/freenozero/Lecture_AI_PreCourse)
  
 🏙️Act.🏙️<br> 
-  [![airiss_intern](https://img.shields.io/badge/airiss_intern-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/airiss-data-analysis-with-intern/minju_airiss_intern)](https://github.com/airiss-data-analysis-with-intern/minju_airiss_intern)
+  [![airiss_intern](https://img.shields.io/badge/airiss_intern-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/minju_airiss_intern)](https://github.com/freenozero/minju_airiss_intern)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
