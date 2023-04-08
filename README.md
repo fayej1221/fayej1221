@@ -33,7 +33,6 @@
 👇🏻👇🏻👇🏻
  
 📂PORTFOLIO📂<br>
-[![NOTION](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)](https://comet-swift-698.notion.site/MAIN-8a77af0979354b3fa5eae902f3bdaf07)
 
 🔥PROJECT🔥<br>
   [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/whdms2008/FarmSecurity)](https://github.com/whdms2008/FarmSecurity)
