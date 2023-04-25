@@ -43,6 +43,10 @@
  https://github.com/freenozero/liverary)
  
   [![gratitude_diary](https://img.shields.io/badge/gratitude_diary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/gratitude_diary)](https://github.com/freenozero/gratitude_diary)
+
+ 👻ing👻 <br>
+  [![SSMPS](https://img.shields.io/badge/SSMPS-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/SSMPS_minju)](https://github.com/freenozero/SSMPS_minju)
+ 
 <br>
 
 📖Study📖<br>
