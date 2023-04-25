@@ -1,7 +1,9 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC0CB&height=200&section=header&text=freenozero&fontSize=30)
-
+ 
+📂PORTFOLIO📂<br>
+ 
 ☺CAREEOR INTERESTS☺<br>
 <img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=Computer-vision&logoColor=white">
 <br><br>
@@ -30,17 +32,15 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <br><br>
 
-👇🏻👇🏻👇🏻
- 
-📂PORTFOLIO📂<br>
-
+👇🏻👇🏻👇🏻 <br>
 🔥PROJECT🔥<br>
   [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju)](https://github.com/freenozero/FarmSecurity_minju)
-  [![Farm 맡은 것 정리](https://img.shields.io/badge/Farm_minju(정리)-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)](https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)
+  [![Farm_Minju](https://img.shields.io/badge/Farm_Minju-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)](https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)
  
  
   [![liverary](https://img.shields.io/badge/liverary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/liverary)](
  https://github.com/freenozero/liverary)
+ 
   [![gratitude_diary](https://img.shields.io/badge/gratitude_diary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/gratitude_diary)](https://github.com/freenozero/gratitude_diary)
 <br>
 
