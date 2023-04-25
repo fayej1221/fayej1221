@@ -34,19 +34,20 @@
 <br><br>
 
 👇🏻👇🏻👇🏻 <br>
-🔥PROJECT🔥<br>
+🔥AI PROJECT🔥<br>
   [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju)](https://github.com/freenozero/FarmSecurity_minju)
  👉
   [![Farm_Minju](https://img.shields.io/badge/Farm_Minju-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)](https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)
  
+  👻ing👻 <br>
+  [![SSMPS](https://img.shields.io/badge/SSMPS-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/SSMPS_minju)](https://github.com/freenozero/SSMPS_minju)
  
+ 🔥Web PROJECT🔥<br>
   [![liverary](https://img.shields.io/badge/liverary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/liverary)](
  https://github.com/freenozero/liverary)
- 
   [![gratitude_diary](https://img.shields.io/badge/gratitude_diary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/gratitude_diary)](https://github.com/freenozero/gratitude_diary)
 
- 👻ing👻 <br>
-  [![SSMPS](https://img.shields.io/badge/SSMPS-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/SSMPS_minju)](https://github.com/freenozero/SSMPS_minju)
+
  
 <br>
 
