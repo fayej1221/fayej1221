@@ -35,6 +35,7 @@
 👇🏻👇🏻👇🏻 <br>
 🔥PROJECT🔥<br>
   [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju)](https://github.com/freenozero/FarmSecurity_minju)
+ 👉
   [![Farm_Minju](https://img.shields.io/badge/Farm_Minju-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)](https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)
  
  
