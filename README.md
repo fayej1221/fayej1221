@@ -35,7 +35,10 @@
 📂PORTFOLIO📂<br>
 
 🔥PROJECT🔥<br>
-  [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/whdms2008/FarmSecurity)](https://github.com/whdms2008/FarmSecurity)
+  [![FarmSecurity](https://img.shields.io/badge/FarmSecurity-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju)](https://github.com/freenozero/FarmSecurity_minju)
+  [![Farm 맡은 것 정리](https://img.shields.io/badge/Farm_minju(정리)-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)](https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)
+ 
+ 
   [![liverary](https://img.shields.io/badge/liverary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/liverary)](
  https://github.com/freenozero/liverary)
   [![gratitude_diary](https://img.shields.io/badge/gratitude_diary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/gratitude_diary)](https://github.com/freenozero/gratitude_diary)
