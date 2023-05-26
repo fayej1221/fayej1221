@@ -32,8 +32,7 @@
  👉
   [![Farm_Minju](https://img.shields.io/badge/Farm_Minju-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)](https://github.com/freenozero/FarmSecurity_minju/tree/main/Team_AI/Min-Ju)
  
-  👻ing👻 <br>
-  [![SSMPS](https://img.shields.io/badge/SSMPS-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/SSMPS_minju)](https://github.com/freenozero/SSMPS_minju)
+   [![SSMPS](https://img.shields.io/badge/SSMPS-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/SSMPS_minju)](https://github.com/freenozero/SSMPS_minju)
  
  🔥Web PROJECT🔥<br>
   [![liverary](https://img.shields.io/badge/liverary-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/liverary)](
