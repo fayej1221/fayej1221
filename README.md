@@ -47,7 +47,6 @@
   [![Coding_Test](https://img.shields.io/badge/Coding_Test-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Coding_Test)](https://github.com/freenozero/Coding_Test)
    [![Lecture_AI](https://img.shields.io/badge/Lecture_AI-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI)](https://github.com/freenozero/Lecture_AI)
    [![Book_Python_machine_learning_perfect_guide](https://img.shields.io/badge/Book_Python_machine_learning_perfect_guide-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)](https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)
-    [![Lecture_AI_PreCourse](https://img.shields.io/badge/Lecture_AI_PreCourse-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI_PreCourse)](https://github.com/freenozero/Lecture_AI_PreCourse)
 
  +) Naver_Beyond_AI_Basic_2023
  
