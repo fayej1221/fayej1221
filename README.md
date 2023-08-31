@@ -5,7 +5,7 @@
 📂PORTFOLIO📂<br>
  
 ☺CAREEOR INTERESTS☺<br>
-<img src="https://img.shields.io/badge/Computervision-pink?style=for-the-badge&logo=ML/DL Developer&logoColor=white">
+<img src="https://img.shields.io/badge/ML/DL Developer-pink?style=for-the-badge&logo=ML/DL Developer&logoColor=white">
 <br><br>
 ⚡MAIN STACK⚡<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
