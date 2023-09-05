@@ -45,11 +45,13 @@
 
 📖Study📖<br>
   [![Coding_Test](https://img.shields.io/badge/Coding_Test-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Coding_Test)](https://github.com/freenozero/Coding_Test)
-   [![Lecture_AI](https://img.shields.io/badge/Lecture_AI-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI)](https://github.com/freenozero/Lecture_AI)
-   [![Book_Python_machine_learning_perfect_guide](https://img.shields.io/badge/Book_Python_machine_learning_perfect_guide-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)](https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)
+  [![Lecture_AI](https://img.shields.io/badge/Lecture_AI-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI)](https://github.com/freenozero/Lecture_AI)
+  [![Book_Python_machine_learning_perfect_guide](https://img.shields.io/badge/Book_Python_machine_learning_perfect_guide-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)](https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)
+  
+  +) Naver Beyond 코칭스터디
+  
+  <img src="https://github.com/freenozero/freenozero/assets/56228633/76c27311-c0e1-4155-95e8-b3e3170345a5"  width="400" height="300"/>
 
- +) Naver_Beyond_AI_Basic_2023
- 
 🏙️Act.🏙️<br> 
  [![airiss_intern](https://img.shields.io/badge/airiss_intern-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/minju_airiss_intern)](https://github.com/freenozero/minju_airiss_intern)
  
