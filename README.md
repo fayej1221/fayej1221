@@ -50,7 +50,7 @@
   
   +) Naver Beyond 코칭스터디
   
-  <img src="https://github.com/freenozero/freenozero/assets/56228633/76c27311-c0e1-4155-95e8-b3e3170345a5"  width="400" height="300"/>
+  <img src="https://github.com/freenozero/freenozero/assets/56228633/76c27311-c0e1-4155-95e8-b3e3170345a5"  width="450" height="300"/>
 
 🏙️Act.🏙️<br> 
  [![airiss_intern](https://img.shields.io/badge/airiss_intern-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/minju_airiss_intern)](https://github.com/freenozero/minju_airiss_intern)
