@@ -55,7 +55,6 @@
 🏙️Act.🏙️<br> 
  [![airiss_intern](https://img.shields.io/badge/airiss_intern-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/minju_airiss_intern)](https://github.com/freenozero/minju_airiss_intern)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=freetour0)](https://solved.ac/freetour0/)
 </div>
