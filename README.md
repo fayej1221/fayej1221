@@ -47,10 +47,10 @@
   [![Coding_Test](https://img.shields.io/badge/Coding_Test-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Coding_Test)](https://github.com/freenozero/Coding_Test)
   [![Lecture_AI](https://img.shields.io/badge/Lecture_AI-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_AI)](https://github.com/freenozero/Lecture_AI)
   [![Book_Python_machine_learning_perfect_guide](https://img.shields.io/badge/Book_Python_machine_learning_perfect_guide-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)](https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)
+  [![Lecture_Math](https://img.shields.io/badge/Lecture_Math-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_Math)](https://github.com/freenozero/Lecture_Math)
   
-  +) Naver Beyond 코칭스터디
+  +) Naver Beyond 코칭스터디(리더부스터)
   
-  <img src="https://github.com/freenozero/freenozero/assets/56228633/76c27311-c0e1-4155-95e8-b3e3170345a5"  width="450" height="300"/>
 
 🏙️Act.🏙️<br> 
  [![airiss_intern](https://img.shields.io/badge/airiss_intern-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/minju_airiss_intern)](https://github.com/freenozero/minju_airiss_intern)
@@ -58,6 +58,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freenozero&layout=compact&theme=graywhite)](https://github.com/freenozero)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=freetour0)](https://solved.ac/freetour0/)
-  
-![냥발자's GitHub stats](https://github-readme-stats.vercel.app/api?username=freenozero&show_icons=true&theme=graywhite)
 </div>
