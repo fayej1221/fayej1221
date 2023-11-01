@@ -51,7 +51,7 @@
 
   +) Naver Beyond 코칭스터디(리더부스터)
   
-  +) NAVER BOOSTCAMP AI TECH 6기(CV)
+  +) NAVER BOOSTCAMP AI TECH 6기(CV 도메인)
   
 
 🏙️Act.🏙️<br> 
