@@ -50,6 +50,7 @@
   [![Lecture_Math](https://img.shields.io/badge/Lecture_Math-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_Math)](https://github.com/freenozero/Lecture_Math)
 
   +) Naver Beyond 코칭스터디(리더부스터)
+  
   +) NAVER BOOSTCAMP AI TECH 6기(CV)
   
 
