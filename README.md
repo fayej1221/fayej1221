@@ -49,14 +49,14 @@
   [![Book_Python_machine_learning_perfect_guide](https://img.shields.io/badge/Book_Python_machine_learning_perfect_guide-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)](https://github.com/freenozero/Book_Python_machine_learning_perfect_guide)
   [![Lecture_Math](https://img.shields.io/badge/Lecture_Math-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/Lecture_Math)](https://github.com/freenozero/Lecture_Math)
 
-  +) NAVER BEYOND 코칭스터디 10기 : BEYOND AI BASIC 2023(리더부스터)
-  
-  +) NAVER BOOSTCAMP AI TECH 6기(CV 도메인)
   
 
 🏙️Act.🏙️<br> 
  [![airiss_intern](https://img.shields.io/badge/airiss_intern-181717?style=flat-square&logo=GITHUB&logoColor=white&link=https://github.com/freenozero/minju_airiss_intern)](https://github.com/freenozero/minju_airiss_intern)
  
-
+  +) NAVER BEYOND 코칭스터디 10기: BEYOND AI BASIC 2023(리더부스터)
+  
+  +) NAVER BOOSTCAMP AI TECH 6기(CV 도메인)
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=freetour0)](https://solved.ac/freetour0/)
 </div>
