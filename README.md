@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFC0CB&height=200&section=header&text=faye-1221&fontSize=30)
  
 📂PORTFOLIO📂<br>
-<a href = "https://freetour0.notion.site/1325a2525826807ca941c7042a4c7826"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a> 
+<a href = "https://mysterious-fog-eb2.notion.site/183bf0122d40807eb40ec08b9915cc29"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a> 
 
 ⚡MAIN STACK⚡<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
