@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=FFC0CB&height=200&section=header&text=faye-1221&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=FFC0CB&height=200&section=header&text=fayej1221&fontSize=30)
  
 📂PORTFOLIO📂<br>
 <a href = "https://mysterious-fog-eb2.notion.site/183bf0122d40807eb40ec08b9915cc29"><img src="https://img.shields.io/badge/Notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a> 
